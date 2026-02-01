@@ -1,2 +1,2 @@
 # WebSite
-Page about myself
+Page about my pet
